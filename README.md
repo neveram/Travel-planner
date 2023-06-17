@@ -37,7 +37,7 @@ Follow these steps to get a local copy of the project up and running on your mac
 1. Clone this repository to your local machine using the following command:
 
 ```
-git clone https://github.com/your-username/plan-your-trip.git
+git clone https://github.com/your-username/Travel-planner.git
 ```
 
 2. Navigate to the project's directory:
