@@ -71,5 +71,4 @@ npm start
 - [MongoDB](https://www.mongodb.com/)
 - [Mongoose](https://mongoosejs.com/)
 
-=
-Happy trip planning!
+## Happy trip planning!
